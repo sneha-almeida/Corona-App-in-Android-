@@ -1,1 +1,1 @@
-# Corona-Contact-Tracing-App-in-Android-
+# Corona Contact Tracing App in Android
