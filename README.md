@@ -30,3 +30,6 @@ Some Sceenshots of the implemented System are:
 
 
 ![](https://github.com/sneha-almeida/Corona-Contact-Tracing-App-in-Android-/blob/main/ss-10.jpg)
+
+
+![](https://github.com/sneha-almeida/Corona-Contact-Tracing-App-in-Android-/blob/main/ss-11.PNG)
