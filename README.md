@@ -1,5 +1,4 @@
-# Corona Contact Tracing App in Android
-
+# Corona Warn App using Android
 Some Sceenshots of the implemented System are:
 
 ![](https://github.com/sneha-almeida/Corona-Contact-Tracing-App-in-Android-/blob/main/ss-1.jpg)
